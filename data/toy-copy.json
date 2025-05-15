@@ -1,163 +1,146 @@
 [
-    {
-      "_id": "t101",
-      "name": "Talking Doll",
-      "price": 123,
-      "labels": ["Battery Powered", "Baby", "Doll"],
-      "createdAt": 1631031801011,
-      "inStock": true
-    },
-    {
-      "_id": "t102",
-      "name": "Wheelie Truck",
-      "price": 89,
-      "labels": ["On wheels", "Outdoor"],
-      "createdAt": 1612031202011,
-      "inStock": true
-    },
-    {
-      "_id": "t103",
-      "name": "Art Station Kit",
-      "price": 149,
-      "labels": ["Art", "Box game"],
-      "createdAt": 1643031005011,
-      "inStock": false
-    },
-    {
-      "_id": "t104",
-      "name": "Puzzle Castle",
-      "price": 99,
-      "labels": ["Puzzle", "Box game"],
-      "createdAt": 1660031804011,
-      "inStock": true
-    },
-    {
-      "_id": "t105",
-      "name": "Baby Rattle Set",
-      "price": 45,
-      "labels": ["Baby", "Doll"],
-      "createdAt": 1609031803011,
-      "inStock": true
-    },
-    {
-      "_id": "t106",
-      "name": "Solar Car Kit",
-      "price": 130,
-      "labels": ["Battery Powered", "On wheels", "Outdoor"],
-      "createdAt": 1625031806011,
-      "inStock": false
-    },
-    {
-      "_id": "t107",
-      "name": "Build-a-Puzzle Zoo",
-      "price": 72,
-      "labels": ["Puzzle", "Art"],
-      "createdAt": 1639031803011,
-      "inStock": true
-    },
-    {
-      "_id": "t108",
-      "name": "Dollhouse Dream",
-      "price": 210,
-      "labels": ["Doll", "Baby"],
-      "createdAt": 1618031801011,
-      "inStock": false
-    },
-    {
-      "_id": "t109",
-      "name": "Mini Truck Racer",
-      "price": 67,
-      "labels": ["On wheels", "Battery Powered"],
-      "createdAt": 1672031801011,
-      "inStock": true
-    },
-    {
-      "_id": "t110",
-      "name": "Outdoor Explorer Kit",
-      "price": 185,
-      "labels": ["Outdoor", "Art"],
-      "createdAt": 1655031805011,
-      "inStock": true
-    },
-    {
-      "_id": "t111",
-      "name": "Glow Puzzle Set",
-      "price": 110,
-      "labels": ["Puzzle", "Battery Powered"],
-      "createdAt": 1632031802011,
-      "inStock": false
-    },
-    {
-      "_id": "t112",
-      "name": "Box of Fun Games",
-      "price": 94,
-      "labels": ["Box game", "Puzzle"],
-      "createdAt": 1648031808011,
-      "inStock": true
-    },
-    {
-      "_id": "t113",
-      "name": "Crawling Baby Doll",
-      "price": 133,
-      "labels": ["Doll", "Baby", "Battery Powered"],
-      "createdAt": 1611031804011,
-      "inStock": true
-    },
-    {
-      "_id": "t114",
-      "name": "Paint & Play",
-      "price": 77,
-      "labels": ["Art", "Box game"],
-      "createdAt": 1667031802011,
-      "inStock": false
-    },
-    {
-      "_id": "t115",
-      "name": "Mega Puzzle Wall",
-      "price": 160,
-      "labels": ["Puzzle", "Art"],
-      "createdAt": 1659031801011,
-      "inStock": true
-    },
-    {
-      "_id": "t116",
-      "name": "RC Monster Truck",
-      "price": 240,
-      "labels": ["On wheels", "Battery Powered", "Outdoor"],
-      "createdAt": 1633031801011,
-      "inStock": true
-    },
-    {
-      "_id": "t117",
-      "name": "Sandbox Tools Set",
-      "price": 58,
-      "labels": ["Outdoor", "Baby"],
-      "createdAt": 1607031807011,
-      "inStock": true
-    },
-    {
-      "_id": "t118",
-      "name": "Baby’s First Puzzle",
-      "price": 50,
-      "labels": ["Baby", "Puzzle"],
-      "createdAt": 1629031801011,
-      "inStock": false
-    },
-    {
-      "_id": "t119",
-      "name": "Crafts & Shapes Kit",
-      "price": 88,
-      "labels": ["Art", "Puzzle"],
-      "createdAt": 1641031802011,
-      "inStock": true
-    },
-    {
-      "_id": "t120",
-      "name": "Battery Doll Train",
-      "price": 198,
-      "labels": ["Battery Powered", "Doll", "On wheels"],
-      "createdAt": 1675031809011,
-      "inStock": false
-    }
-  ]
-  
+  {
+    "name": "Talking Doll",
+    "price": 123,
+    "labels": ["Battery Powered", "Baby", "Doll"],
+    "createdAt": 1631031801011,
+    "inStock": true,
+    "imgUrl": "https://m.media-amazon.com/images/I/61tY5zJ4SOL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Wheelie Truck",
+    "price": 89,
+    "labels": ["On wheels", "Outdoor"],
+    "createdAt": 1612031202011,
+    "inStock": true,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTygJR3fOz-e0VeReiVzmFQvfOt6XQE1oSd_w&s"
+  },
+  {
+    "name": "Puzzle Castle",
+    "price": 99,
+    "labels": ["Puzzle", "Box game"],
+    "createdAt": 1660031804011,
+    "inStock": true,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVAJTZx97rRRkOOOIa-PJaAlxruIOu19Q58g&s"
+  },
+  {
+    "name": "Baby Rattle Set",
+    "price": 45,
+    "labels": ["Baby", "Doll"],
+    "createdAt": 1609031803011,
+    "inStock": true,
+    "imgUrl": "https://thejoybox.com.au/cdn/shop/files/S2daec7fb6e784325af9b82f50e1216e1e.webp?v=1721131074"
+  },
+  {
+    "name": "Solar Car Kit",
+    "price": 130,
+    "labels": ["Battery Powered", "On wheels", "Outdoor"],
+    "createdAt": 1625031806011,
+    "inStock": false,
+    "imgUrl": "https://source.unsplash.com/400x400/?solar,car,kit"
+  },
+  {
+    "name": "Build-a-Puzzle Zoo",
+    "price": 72,
+    "labels": ["Puzzle", "Art"],
+    "createdAt": 1639031803011,
+    "inStock": true,
+    "imgUrl": "https://m.media-amazon.com/images/I/81V95GFhaGL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Dollhouse Dream",
+    "price": 210,
+    "labels": ["Doll", "Baby"],
+    "createdAt": 1618031801011,
+    "inStock": false,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7KTMqSQvphXJgqDNlXPp9NYPvhHBqBrMdLA&s"
+  },
+  {
+    "name": "Mini Truck Racer",
+    "price": 67,
+    "labels": ["On wheels", "Battery Powered"],
+    "createdAt": 1672031801011,
+    "inStock": true,
+    "imgUrl": "https://i.pinimg.com/736x/b7/ea/f9/b7eaf9bafe06d055b673c15dd8fc8fbf.jpg"
+  },
+  {
+    "name": "Outdoor Explorer Kit",
+    "price": 185,
+    "labels": ["Outdoor", "Art"],
+    "createdAt": 1655031805011,
+    "inStock": true,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlRTofEVnw_RrfiHERtbFvNQbPkLkmpVXf8g&s"
+  },
+  {
+    "name": "Glow Puzzle Set",
+    "price": 110,
+    "labels": ["Puzzle", "Battery Powered"],
+    "createdAt": 1632031802011,
+    "inStock": false,
+    "imgUrl": "https://m.media-amazon.com/images/I/71k9XMCp-PL.jpg"
+  },
+  {
+    "name": "Box of Fun Games",
+    "price": 94,
+    "labels": ["Box game", "Puzzle"],
+    "createdAt": 1648031808011,
+    "inStock": true,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsuFR0UfBymxOtX8ymImaOsXbqUbScdEYb8g&s"
+  },
+  {
+    "name": "Crawling Baby Doll",
+    "price": 133,
+    "labels": ["Doll", "Baby", "Battery Powered"],
+    "createdAt": 1611031804011,
+    "inStock": true,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS7iYPdDTzy5kNFVXYIxr3Lqmgw1YghRGaLw&s"
+  },
+  {
+    "name": "Paint & Play",
+    "price": 77,
+    "labels": ["Art", "Box game"],
+    "createdAt": 1667031802011,
+    "inStock": false,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpWxFHDyxVYIFstMWF34SEchFqZ1_wVJ0goA&s"
+  },
+  {
+    "name": "Mega Puzzle Wall",
+    "price": 160,
+    "labels": ["Puzzle", "Art"],
+    "createdAt": 1659031801011,
+    "inStock": true,
+    "imgUrl": "https://www.platinlux.com/media/fa/d6/ef/1673792795/puzzle-mega-small-lodes-1.jpg"
+  },
+  {
+    "name": "RC Monster Truck",
+    "price": 240,
+    "labels": ["On wheels", "Battery Powered", "Outdoor"],
+    "createdAt": 1633031801011,
+    "inStock": true,
+    "imgUrl": "https://www.horizonhobby.com/dw/image/v2/BFBR_PRD/on/demandware.static/-/Sites-horizon-master/default/dw87a4288c/Images/LOS/LOS01026T1_A13_IB35GCCB.jpg?sw=800&sh=800&sm=fit"
+  },
+  {
+    "name": "Sandbox Tools Set",
+    "price": 58,
+    "labels": ["Outdoor", "Baby"],
+    "createdAt": 1607031807011,
+    "inStock": true,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMonFfPZgCiMso-S92z0QnNSKDWXRG6nlVfg&s"
+  },
+  {
+    "name": "Baby’s First Puzzle",
+    "price": 50,
+    "labels": ["Baby", "Puzzle"],
+    "createdAt": 1629031801011,
+    "inStock": true,
+    "imgUrl": "https://m.media-amazon.com/images/I/716oLewSt0L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Crafts & Shapes Kit",
+    "price": 88,
+    "labels": ["Art", "Puzzle"],
+    "createdAt": 1641031802011,
+    "inStock": true,
+    "imgUrl": "https://m.media-amazon.com/images/I/71AKsQ+2MkL.jpg"
+  }
+]
